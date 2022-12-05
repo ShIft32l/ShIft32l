@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShIft32l
 - 👀 I’m interested in Security | BlueTeam | DFIR
-- I'm Cybersecurity Operation Center Leader
+- I'm currently a Cybersecurity Operation Center Leader
 
 <!---
 ShIft32l/ShIft32l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
